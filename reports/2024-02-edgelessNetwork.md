@@ -5,7 +5,7 @@ Timeline: 23.02.2024 - 24.02.2024</br>
 Repository: https://github.com/edgelessNetwork/contracts</br>
 Commit ID: 85b6ab5a665bfdf3efbc1c8470849a0061c214b4</br>
 Remediation Commit ID: n/a</br>
-Size: 382 nSLOC</br>
+Size: 213 nSLOC</br>
 
 ## Solution
 
