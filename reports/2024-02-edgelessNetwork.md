@@ -3,8 +3,8 @@
 Client: edgelessNetwork </br>
 Timeline: 23.02.2024 - 24.02.2024</br>
 Repository: https://github.com/edgelessNetwork/contracts</br>
-Commit ID: 85b6ab5a665bfdf3efbc1c8470849a0061c214b4</br>
-Remediation Commit ID: n/a</br>
+Commit Id: 85b6ab5a665bfdf3efbc1c8470849a0061c214b4</br>
+Remediation Commit Id: n/a</br>
 Size: 213 nSLOC</br>
 
 ## Solution
